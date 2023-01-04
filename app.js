@@ -1,5 +1,1 @@
-window.onload = function() {
-    for (var i = 0; i < 10; i++) {
-        console.log(i, "u 're awesome kawtar");
-    }
-}
+console.log(i, "u 're awesome kawtar");
